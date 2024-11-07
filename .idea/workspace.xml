@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46bc1750-a555-4b68-812d-542cdd5bdd84" name="Changes" comment="스케치 효과">
+      <change afterPath="$PROJECT_DIR$/.idea/ComputerVision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bgr2gray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blending_alpha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blending_alpha_trackbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blur_avg_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blur_median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diff_absolute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histo_equalize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histo_equalize_yuv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histo_normalize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_show_gray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roi_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roi_select_img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotate_getmatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scale_resize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seamlessclone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cam_rec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cam_take_pic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop_mosic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop_painting_cam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshow_mosaic.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mGgfP72odqcqrStzfxxaTzglMi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bgr2gray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blending_alpha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blending_alpha_trackbar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blur_avg_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blur_median.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diff_absolute.executor&quot;: &quot;Run&quot;,
+    &quot;Python.histo_equalize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.histo_equalize_yuv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.histo_normalize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.img_show.executor&quot;: &quot;Run&quot;,
+    &quot;Python.img_show_gray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.img_write.executor&quot;: &quot;Run&quot;,
+    &quot;Python.roi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.roi_copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.roi_select_img.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rotate_getmatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scale_resize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seamlessclone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.translate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video_cam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video_cam_rec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video_cam_take_pic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vidoe_play.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workshop_mosic2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workshop_painting_cam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workshow_mosaic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46bc1750-a555-4b68-812d-542cdd5bdd84" name="Changes" comment="" />
+      <created>1726708429771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726708429771</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스케치 효과" />
+    <option name="LAST_COMMIT_MESSAGE" value="스케치 효과" />
+  </component>
+</project>
